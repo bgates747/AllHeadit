@@ -1,0 +1,29 @@
+{
+  "name": "allheadit",
+  "version": "1.0.0",
+  "description": "VS Code extension for managing C/C++ project header files from a single editor window.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgates747/AllHeadit.git"
+  },
+  "author": "Brandon R. Gates (bgates747)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/bgates747/AllHeadit/issues"
+  },
+  "homepage": "https://github.com/bgates747/AllHeadit#readme",
+  "devDependencies": {
+    "@types/vscode": "^1.91.0",
+    "typescript": "^4.9.5"
+  }
+}

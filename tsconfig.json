@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "es6",                                  // Specify ECMAScript target version
+      "module": "commonjs",                             // Specify module code generation
+      "outDir": "./out",                                // Redirect output structure to the directory
+      "rootDir": "./src",                               // Specify the root directory of input files
+      "strict": true,                                   // Enable all strict type-checking options
+      "esModuleInterop": true,                          // Enables compatibility with non-ES module spec compliant imports
+      "skipLibCheck": true,                             // Skip type checking of all declaration files (*.d.ts)
+      "forceConsistentCasingInFileNames": true,         // Disallow inconsistently-cased references to the same file
+      "sourceMap": true,                                // Generates corresponding '.map' file
+      "lib": ["es6"]                                    // Specify a set of compiled JavaScript files to include
+    },
+    "include": [
+      "src/**/*"                                        // Include all files in the src folder
+    ],
+    "exclude": [
+      "node_modules",                                   // Exclude the node_modules directory
+      ".vscode",                                        // Exclude VSCode configuration files
+      "**/*.spec.ts"                                    // Exclude test files
+    ]
+  }
+  
