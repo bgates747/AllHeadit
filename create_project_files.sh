@@ -27,7 +27,7 @@ cat <<EOF >$src_dir/package.json
     "name": "allheadit",
     "displayName": "AllHeadit",
     "description": "Hello World example for AllHeadit",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.58.0"
     },

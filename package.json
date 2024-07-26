@@ -1,6 +1,6 @@
 {
   "name": "allheadit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "VS Code extension for managing C/C++ project header files from a single editor window.",
   "main": "index.js",
   "directories": {
