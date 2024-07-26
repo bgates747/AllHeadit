@@ -57,29 +57,5 @@ Contributions to "AllHeadit" are welcome! Whether it's adding new features, fixi
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-1. Open VS Code.
-2. Navigate to the Extensions view by clicking on the square icon on the sidebar or pressing `Ctrl+Shift+X`.
-3. Search for "AllHeadit".
-4. Click on **Install**.
-
-Alternatively, you can install it via the command palette:
-1. Press `Ctrl+P` to open the Quick Open dialog.
-2. Type `ext install your-username.allheadit` and press Enter.
-
-## Usage
-
-After installation, you can start using "AllHeadit" by:
-1. Opening your C/C++ project in VS Code.
-2. Right-clicking on the folder containing your header files in the Explorer sidebar and selecting "Open in AllHeadit".
-3. Making changes as needed; all modifications are saved in real-time to the corresponding files.
-
-## Contributing
-
-Contributions to "AllHeadit" are welcome! Whether it's adding new features, fixing bugs, or improving documentation, please feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
 This project is released under the Unlicense - see the LICENSE file for details.
 
